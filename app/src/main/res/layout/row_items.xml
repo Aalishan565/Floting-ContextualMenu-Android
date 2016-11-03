@@ -11,6 +11,7 @@
 
     <TextView
         android:id="@+id/tv_names"
+        android:textColor="@color/colorAccent"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 </RelativeLayout>

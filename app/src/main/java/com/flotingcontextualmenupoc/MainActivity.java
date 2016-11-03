@@ -14,9 +14,9 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
     private ListView mListView;
-    ArrayAdapter mArrayAdapter;
-    String[] names;
-    ArrayList<String> arrayListNames;
+    private ArrayAdapter mArrayAdapter;
+    private String[] names;
+    private ArrayList<String> arrayListNames;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
